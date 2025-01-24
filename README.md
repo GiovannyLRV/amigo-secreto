@@ -16,7 +16,6 @@ Esta es una herramienta sencilla y divertida que te permite crear una lista de a
     Puedes acceder directamente desde este [enlace](https://giovannylrv.github.io/amigo-secreto/).
 3. **Añadir amigos**: Escribe los nombres de los amigos y agrégalos a la lista.
 4. **Iniciar el sorteo**: Haz clic en el botón para seleccionar a un amigo secreto de manera aleatoria.
-5. **Compartir resultados**: Opcionalmente, comparte los resultados con tus amigos.
 
 ## Tecnologías utilizadas 🛠️
 
